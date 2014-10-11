@@ -1,5 +1,5 @@
 {
-  "name": "re",
+  "name": "reioc",
   "version": "0.1.0",
   "description": "lightweight IoC container for Node js",
   "main": "index.js",
