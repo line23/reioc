@@ -11,7 +11,7 @@ You need to configure reioc with rootPath and namespaces. This configuration mus
 require('reioc').config({
     rootPath: __dirname,
     namespaces:{
-      // Namespace: { path: path/to/js/module }
+      // Namespace: { path: path/to/modules/folder }
       services: { path: 'services/test'}
     }
 });
