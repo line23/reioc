@@ -15,6 +15,8 @@ require('reioc').config({
       services: { path: 'services/test'}
     }
 });
+
+var TestService = require('reioc').get('services/testService');
 ```
 inside /services/test/testService.js:
 ```javascript

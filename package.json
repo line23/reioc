@@ -1,6 +1,6 @@
 {
   "name": "reioc",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "description": "lightweight IoC container for Node js",
   "main": "index.js",
   "scripts": {
